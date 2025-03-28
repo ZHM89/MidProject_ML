@@ -82,7 +82,7 @@ This project focuses on NBA player performance and salaries using a dataset from
 3. Run the Jupyter Notebook for analysis and model training.
 
 ## Authors
-Milena Boiko
+Zhoubin Maneshi
 
 ---
 This project is an ongoing **technical exploration**, and contributions are welcome!
