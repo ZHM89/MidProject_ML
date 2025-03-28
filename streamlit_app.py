@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 from scipy.stats import ttest_ind
 
 # Load the data
-df = pd.read_csv("https://raw.githubusercontent.com/ZHM89/dp-machinelearning/main/nba_salary_stats.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/ZHM89/MidProject_ML/main/nba_salary_stats.csv")
 
 # Encode categorical variables
 le_position = LabelEncoder()
