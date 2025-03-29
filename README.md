@@ -1,8 +1,5 @@
 # Midproject: Technical Exploration
 
-## Welcome to the Midproject!
-This project brings together model evaluation skills, technical storytelling, and data-driven insights. The goal is to build and understand machine learning models, draw meaningful conclusions, and communicate findings clearly.
-
 ## Project Overview
 This project focuses on NBA player performance and salaries using a dataset from Kaggle: [Exploring NBA Player Performance and Salaries (2019)](https://www.kaggle.com/datasets/thedevastator/exploring-nba-player-performance-and-salaries-19). The analysis includes predictive modeling, business intelligence insights, and hypothesis testing.
 
@@ -56,30 +53,6 @@ This project focuses on NBA player performance and salaries using a dataset from
 - **Descriptive Naming:** Meaningful variable and file names.
 - **Comprehensive Documentation:** Include comments, docstrings, and markdown explanations.
 - **Git Usage:** Commit regularly, write meaningful messages, and maintain repository organization.
-
-## Repository Structure
-```
-├── data/
-│   ├── nba_players_2019.csv  # Raw dataset
-├── notebooks/
-│   ├── NBA_salary_prediction.ipynb  # Main Jupyter Notebook
-├── src/
-│   ├── data_preprocessing.py  # Data cleaning & feature engineering
-│   ├── modeling.py  # Machine learning models
-├── README.md  # Project documentation
-├── requirements.txt  # Dependencies
-```
-
-## How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/nba-salary-prediction.git
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook for analysis and model training.
 
 ## Authors
 Zhoubin Maneshi
